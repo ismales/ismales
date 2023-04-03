@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am iOS developer👋😊
+#### I am iOS developer👋😊
 
 
 # 💻 Tech Stack:
@@ -10,6 +10,6 @@ I am iOS developer👋😊
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ismales&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
